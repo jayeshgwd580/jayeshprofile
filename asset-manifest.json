@@ -1,7 +1,9 @@
 {
   "files": {
     "main.css": "/jayeshprofile/static/css/main.a4c1e4c4.css",
-    "main.js": "/jayeshprofile/static/js/main.80ba9ef3.js",
+    "main.js": "/jayeshprofile/static/js/main.5709abb9.js",
+    "static/media/nutritionallyyours.PNG": "/jayeshprofile/static/media/nutritionallyyours.bffee2c6bfd85613e2d2.PNG",
+    "static/media/saafa.PNG": "/jayeshprofile/static/media/saafa.9f078cde379d8157ebcc.PNG",
     "static/media/background1.jpg": "/jayeshprofile/static/media/background1.9ee90238a9bcfb20ba84.jpg",
     "static/media/Roboto-Regular.ttf": "/jayeshprofile/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/Roboto-Bold.ttf": "/jayeshprofile/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
@@ -22,10 +24,10 @@
     "static/media/user-solid.svg": "/jayeshprofile/static/media/user-solid.5234d6211d575dbf8f6f0ba6747268c7.svg",
     "static/media/html5.svg": "/jayeshprofile/static/media/html5.b8d8e1c434b636f85526f80491ed67dd.svg",
     "main.a4c1e4c4.css.map": "/jayeshprofile/static/css/main.a4c1e4c4.css.map",
-    "main.80ba9ef3.js.map": "/jayeshprofile/static/js/main.80ba9ef3.js.map"
+    "main.5709abb9.js.map": "/jayeshprofile/static/js/main.5709abb9.js.map"
   },
   "entrypoints": [
     "static/css/main.a4c1e4c4.css",
-    "static/js/main.80ba9ef3.js"
+    "static/js/main.5709abb9.js"
   ]
 }
