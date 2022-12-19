@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/jayeshprofile/static/css/main.a4c1e4c4.css",
+    "main.js": "/jayeshprofile/static/js/main.80ba9ef3.js",
+    "static/media/background1.jpg": "/jayeshprofile/static/media/background1.9ee90238a9bcfb20ba84.jpg",
+    "static/media/Roboto-Regular.ttf": "/jayeshprofile/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Bold.ttf": "/jayeshprofile/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/profileimg.jpg": "/jayeshprofile/static/media/profileimg.e62c88c91e762ee7fe47.jpg",
+    "static/media/react.svg": "/jayeshprofile/static/media/react.311aed114e16d40fef126a5efd7cfa17.svg",
+    "static/media/wordpress.svg": "/jayeshprofile/static/media/wordpress.fd48a95808ec6c53507c9a6bd1246563.svg",
+    "static/media/instagram.svg": "/jayeshprofile/static/media/instagram.c2056460bbbf6c051f72df6d7c2fa6dc.svg",
+    "static/media/php.svg": "/jayeshprofile/static/media/php.aab5d8ff7c4b6454ffb5d4baf031b432.svg",
+    "static/media/python.svg": "/jayeshprofile/static/media/python.e05cbea9594ff51f35d2590459affe40.svg",
+    "static/media/brain-solid.svg": "/jayeshprofile/static/media/brain-solid.b9df331f2b03abbb37851a1b3c5c7598.svg",
+    "static/media/square-js.svg": "/jayeshprofile/static/media/square-js.5e769243a6f2414e837664c8b6c68f7c.svg",
+    "static/media/address-book-solid.svg": "/jayeshprofile/static/media/address-book-solid.dc8f0bbde548a1fcd681a430fa3aeb45.svg",
+    "index.html": "/jayeshprofile/index.html",
+    "static/media/linkedin.svg": "/jayeshprofile/static/media/linkedin.386d46fc1dc9ea908ed8bb6235009335.svg",
+    "static/media/laptop-file-solid.svg": "/jayeshprofile/static/media/laptop-file-solid.99f7cfdbaf8f385e7cc4fddc55d25c37.svg",
+    "static/media/facebook.svg": "/jayeshprofile/static/media/facebook.9b444da5aa9a56243f8c6dde17a22a43.svg",
+    "static/media/css3-alt.svg": "/jayeshprofile/static/media/css3-alt.6d6d60e438f88d7a7c590ec5030264f8.svg",
+    "static/media/user-solid.svg": "/jayeshprofile/static/media/user-solid.5234d6211d575dbf8f6f0ba6747268c7.svg",
+    "static/media/html5.svg": "/jayeshprofile/static/media/html5.b8d8e1c434b636f85526f80491ed67dd.svg",
+    "main.a4c1e4c4.css.map": "/jayeshprofile/static/css/main.a4c1e4c4.css.map",
+    "main.80ba9ef3.js.map": "/jayeshprofile/static/js/main.80ba9ef3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4c1e4c4.css",
+    "static/js/main.80ba9ef3.js"
+  ]
+}
