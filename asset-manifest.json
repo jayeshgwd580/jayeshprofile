@@ -1,14 +1,17 @@
 {
   "files": {
     "main.css": "/jayeshprofile/static/css/main.c6527baa.css",
-    "main.js": "/jayeshprofile/static/js/main.c3b8aa2d.js",
+    "main.js": "/jayeshprofile/static/js/main.2389522a.js",
     "static/media/filmy4movies.PNG": "/jayeshprofile/static/media/filmy4movies.c4d923661a117e1b70b3.PNG",
     "static/media/nutritionallyyours.PNG": "/jayeshprofile/static/media/nutritionallyyours.bffee2c6bfd85613e2d2.PNG",
     "static/media/saafa.PNG": "/jayeshprofile/static/media/saafa.9f078cde379d8157ebcc.PNG",
     "static/media/tatallion.PNG": "/jayeshprofile/static/media/tatallion.a207e23d212c9df45249.PNG",
     "static/media/moontravels.PNG": "/jayeshprofile/static/media/moontravels.61943bdf628361a0ad4d.PNG",
+    "static/media/slider.PNG": "/jayeshprofile/static/media/slider.d1e66a2ae2d0c9b49d1f.PNG",
     "static/media/background1.jpg": "/jayeshprofile/static/media/background1.9ee90238a9bcfb20ba84.jpg",
     "static/media/facebook.PNG": "/jayeshprofile/static/media/facebook.74f81ca6a83c36f8916a.PNG",
+    "static/media/sort.PNG": "/jayeshprofile/static/media/sort.eb2b2bb8949f4196c023.PNG",
+    "static/media/iphone.PNG": "/jayeshprofile/static/media/iphone.531860431f9d962118bd.PNG",
     "static/media/Roboto-Regular.ttf": "/jayeshprofile/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/Roboto-Bold.ttf": "/jayeshprofile/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
     "static/media/profileimg.jpg": "/jayeshprofile/static/media/profileimg.e62c88c91e762ee7fe47.jpg",
@@ -29,10 +32,10 @@
     "static/media/user-solid.svg": "/jayeshprofile/static/media/user-solid.5234d6211d575dbf8f6f0ba6747268c7.svg",
     "static/media/html5.svg": "/jayeshprofile/static/media/html5.b8d8e1c434b636f85526f80491ed67dd.svg",
     "main.c6527baa.css.map": "/jayeshprofile/static/css/main.c6527baa.css.map",
-    "main.c3b8aa2d.js.map": "/jayeshprofile/static/js/main.c3b8aa2d.js.map"
+    "main.2389522a.js.map": "/jayeshprofile/static/js/main.2389522a.js.map"
   },
   "entrypoints": [
     "static/css/main.c6527baa.css",
-    "static/js/main.c3b8aa2d.js"
+    "static/js/main.2389522a.js"
   ]
 }
