@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/jayeshprofile/static/css/main.c6527baa.css",
-    "main.js": "/jayeshprofile/static/js/main.2389522a.js",
+    "main.js": "/jayeshprofile/static/js/main.14289d0f.js",
     "static/media/filmy4movies.PNG": "/jayeshprofile/static/media/filmy4movies.c4d923661a117e1b70b3.PNG",
     "static/media/nutritionallyyours.PNG": "/jayeshprofile/static/media/nutritionallyyours.bffee2c6bfd85613e2d2.PNG",
     "static/media/saafa.PNG": "/jayeshprofile/static/media/saafa.9f078cde379d8157ebcc.PNG",
     "static/media/tatallion.PNG": "/jayeshprofile/static/media/tatallion.a207e23d212c9df45249.PNG",
     "static/media/moontravels.PNG": "/jayeshprofile/static/media/moontravels.61943bdf628361a0ad4d.PNG",
+    "static/media/liquidsky.PNG": "/jayeshprofile/static/media/liquidsky.e8576eee540526a20fd4.PNG",
     "static/media/slider.PNG": "/jayeshprofile/static/media/slider.d1e66a2ae2d0c9b49d1f.PNG",
     "static/media/background1.jpg": "/jayeshprofile/static/media/background1.9ee90238a9bcfb20ba84.jpg",
     "static/media/facebook.PNG": "/jayeshprofile/static/media/facebook.74f81ca6a83c36f8916a.PNG",
@@ -32,10 +33,10 @@
     "static/media/user-solid.svg": "/jayeshprofile/static/media/user-solid.5234d6211d575dbf8f6f0ba6747268c7.svg",
     "static/media/html5.svg": "/jayeshprofile/static/media/html5.b8d8e1c434b636f85526f80491ed67dd.svg",
     "main.c6527baa.css.map": "/jayeshprofile/static/css/main.c6527baa.css.map",
-    "main.2389522a.js.map": "/jayeshprofile/static/js/main.2389522a.js.map"
+    "main.14289d0f.js.map": "/jayeshprofile/static/js/main.14289d0f.js.map"
   },
   "entrypoints": [
     "static/css/main.c6527baa.css",
-    "static/js/main.2389522a.js"
+    "static/js/main.14289d0f.js"
   ]
 }
